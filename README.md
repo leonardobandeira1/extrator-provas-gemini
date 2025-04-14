@@ -38,7 +38,3 @@ Este projeto é uma aplicação para Google Sheets que utiliza a API Gemini (Goo
 ## Contribuições
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir um issue ou enviar um pull request.
-
-## Licença
-
-[MIT](LICENSE)
